@@ -1,0 +1,11 @@
+https://stackoverflow.com/questions/9845102/using-mysql-in-flask
+
+pymysql is working 
+sqldb/sqlclient is not working
+
+
+pip install pyaudio - not working
+
+pip install pipwin
+pipwin install pyaudio
+pipwin is like pip, but it installs precompiled Windows binaries provided by Christoph Gohlke. Saves you a lot of googling and manual downloading.
